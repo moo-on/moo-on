@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🏤Seoul National University of Science and Technology
+  - 🥇 Industy Information Systems Engineer Major
+  - 🥈 artificial intelligence Major
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-on)]
 
 <!--
