@@ -2,7 +2,8 @@
   - 🥇 Industy Information Systems Engineer Major
   - 🥈 artificial intelligence Major
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-on)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-on&count_private=true&&hide=contribs,prs)
+)]
 
 <!--
 **moo-on/moo-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
